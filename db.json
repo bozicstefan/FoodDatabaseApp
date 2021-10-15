@@ -1,16 +1,17 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "username": "Pera",
+      "email": "pera@gmail.com",
+      "password": "pera123",
+      "admin": true
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "username": "Mika",
+      "email": "mika@gmail.com",
+      "password": "mika123"
     }
   ]
 }
